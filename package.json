@@ -26,7 +26,7 @@
   "main": "lib/fastclick.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ftlabs/fastclick.git"
+    "url": "git://github.com/kinergy/fastclick.git"
   },
   "keywords": [
     "fastclick",
